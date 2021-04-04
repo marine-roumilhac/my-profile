@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-	font-size: 25px;
+	font-size: 18px;
 	font-weight: normal;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 
 .container {
 	margin: 50px auto;
-	width: 500px;
+	width: 700px;
 }
 
 .box-white {
